@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+.Menu ul {
+  list-style-type: none;
+  text-align: right;
+  margin-right:100px;
+}
+.Menu li {
+  color: black;
+  display: inline-block;
+  width: 120px;
+  height: 40px;
+  line-height: 40px;
+  margin-left:20px;
+}
+.MenuText {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    display: block;
+}
